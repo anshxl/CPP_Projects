@@ -14,6 +14,7 @@ In this project, I developed a cryptocurrency exchange system, encapsulated with
 
 **PrintBidAskSpread**: The bid-ask spread, reflecting the willingness of buyers and sellers to transact at different price points, was reported for each asset in the exchange.
 
+## Conclusion
 This project demonstrated my ability to design and implement a rudimentary cryptocurrency exchange, following the principles of trading, market maker/taker dynamics, and real-time order management. It showcased my proficiency in object-oriented programming, data organization, and creating user-friendly interfaces for tracking portfolios, orders, trades, and market data.
 
 In summary, this project served as a testament to my programming skills, particularly in developing financial systems, and my capacity to handle complex data structures and real-time interactions. It was a valuable addition to my portfolio, illustrating my ability to design and implement a functional exchange system for cryptocurrency trading.
